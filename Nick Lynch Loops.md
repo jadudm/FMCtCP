@@ -1,8 +1,8 @@
 ## [Three Programs Using Loops](https://nicklynch10.wordpress.com/2018/03/13/3-new-programs-and-how-to-make-them/)
 
-We have been working hard in DCS and after we finished out performance we got right back to work. Our next assignment is to build 3 more programs on a concept we did not understand fully.
+We have been working hard in DCS and after we finished out performance we got right back to work. Our next assignment is to build three more programs on a concept we did not understand fully. I decided to pursue loops. A loop involves iterating through a process to change something. In this example, I use loops to interate through the different pixels and change the pixels color. 
 
-Basic Loops
+### Basic Loops
 
 The first program I decided to build was a basic loop that changes the active index light to red. This is a simple program that shows visually how a loop will work. It chooses an index, runs the action then goes to the next index until it is at the maximum value you chose. The program could be applicable to a child who wants to interact with a machine with simple buttons.
 
@@ -10,22 +10,24 @@ The first program I decided to build was a basic loop that changes the active in
 
 ![capture.png](https://nicklynch10.files.wordpress.com/2018/03/capture.png)
 
-Next, I decided to add something a little more advanced. I noticed it was very easy to create a forward moving loop, however a backwards moving one required some extra effort. In order to make a backwards for loop I needed to start another variable at 10. Then each half second subtract 1 from the index and run the loop again. I needed the code to know when to stop, so I created a logic block for when a variable is greater than 0. This would mean the loop would stop at 0. Capkture.PNG
+### Advanced Loops
+
+Next, I decided to add something a little more advanced. I noticed it was very easy to create a forward moving loop, however a backwards moving one required some extra effort. In order to make a backwards for loop I needed to start another variable at 10. Then each half second subtract 1 from the index and run the loop again. I needed the code to know when to stop, so I created a logic block for when a variable is greater than 0. This would mean the loop would stop at 0.
 
 ![capkture.png](https://nicklynch10.files.wordpress.com/2018/03/capkture.png)
 
  
 
-A Different Way
+### A Different Way
 
-Next, to test my understanding of loops, I decided to create the exact same loop using a different method.  This time however, I used a clever math trick to use the same basic for loop provided for us to get the same results as the backwards loop. I utilized the fact that I knew there are only 10 lights and by having a forward moving index (1,2,3…) I will get a backwards index by simply doing 10 – (1,2,3…) = 9,8,7… This is exactly the same as the program before but in a different way. This showed me that the program could be made using many different techniques and no two techniques are exactly the same.
+Lastly, to test my understanding of loops, I decided to create the exact same loop using a different method. This time however, I used a clever math trick to use the same basic for loop provided for us to get the same results as the backwards loop. I utilized the fact that I knew there are only 10 lights and by having a forward moving index (1,2,3…) I will get a backwards index by simply doing 10 – (1,2,3…) = 9,8,7… This is exactly the same as the program before but in a different way. This showed me that the program could be made using many different techniques and no two techniques are exactly the same.
 
  
 
 ![capturdde.png](https://nicklynch10.files.wordpress.com/2018/03/capturdde.png)
 
  
-
+I believe the fact that the two methods are completly different yet contain the exact same result is interesting. Programming often has many roads that travel to same destination and this is a clear example of such.
 Below is a video I made demonstrating how I built the final product. I am far from a film major so please be sparing with the harsh reviews.
 
 [https://www.useloom.com/share/13a250e756254dceb93777e43255dd84](https://www.useloom.com/share/13a250e756254dceb93777e43255dd84)
