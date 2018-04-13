@@ -13,3 +13,5 @@ Katherine Towle <ktowle2@bates.edu>
 Sam Montenegro <smontene@bates.edu>
 
 Anthony Ochoa <aochoa@bates.edu>
+
+Alex Teplitz <ateplitz@bates.edu>
