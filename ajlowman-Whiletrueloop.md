@@ -15,4 +15,4 @@ In the slightly more complex code, I decided to add another element to the progr
 
 My third and final code is different in a few ways from my first two programs. In my first two codes, I had placed my full program in the forever loop. Here, I instead placed a set all pixel to red in the forever loop. This means that the CPX will be red when nothing elicits a response. On the other hand, I used another input “on button click A.” I attached my while true loop into the the input for “on button click A.” As a result, if I press the the “button A” on my CPX then the sound level and light level will respond if their values are true in respect to their logic comparison function. To recap, a loop function is another condition that evaluates a boolean function. The condition is tested before any code runs. This is important because if the condition is false, then the code inside the loop will not run. I hope this helps short chapter helps to understand the “while true” loop function.
 
-[While True Loop](https://www.useloom.com/embed/6f7e9fafc2034b12b9639a4fe7df9bd4)
+[While True Loop](https://youtu.be/19xT4DLvLAg)
