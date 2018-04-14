@@ -69,7 +69,11 @@ setAllPixelsTo(GREEN)
   
 
 More Complex
+
 ![alt text](https://andrewsdcsblog.files.wordpress.com/2018/04/screen-shot-2018-04-12-at-9-25-02-pm.png)
+
+
+
 In the final and more complex code I decided to challenge myself and work with accel readings over the x-axis. Unlike my first two codes my variable here is accel_Reading. Again I initialized the variable by setting the accel_Readng equal to 0. Under the while true condition, the code reads accel_Reading=getAccel(XAXIS). Simply, as Python reads the acceleration values, it prints the acceleration reading as the acceleration increases. For instance, when the CPX reads “the acceleration and the acceleration reading is greater than 4” then the pixels are set to blue because of the if statement. If it is less than 4, then the else statement turns the pixels on the CPX to the pre-manipulation condition color of green. In reality, this code will control whether the CPX will change from a pixel color of green to blue when an individual moves the CPX from left to right or in the x-direction with an accel reading greater than 4.
 
   
