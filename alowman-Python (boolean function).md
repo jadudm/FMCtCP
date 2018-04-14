@@ -1,5 +1,7 @@
 Simple Code
 ![alttext](https://andrewsdcsblog.files.wordpress.com/2018/04/screen-shot-2018-04-12-at-9-21-12-pm.png)
+
+
 In my first successful code on Python, I decided to translate a similar code from Makecode. The simple code begins with the statement “from dcs import.” This was created by our class earlier in the semester to allow Python to recognize that “red” is actually the color red. This may sound simple but it saves a lot of time for programmers. Ultimately, I can do this for any color as you can see that I used “blue” in my program and Python recognized it. Then, I incorporated light_Sensor=0 to initialize the light sensor as a variable for the light sensor. Essentially, this will elicit a response from the light sensor when the condition is true in the loop. In makecode, the “while true” loop has a condition that evaluates to a boolean value. Like other boolean functions, the loop runs on the “all or nothing” principle.” The condition will run before the code, if it is true the code inside will run, but if it is false, then it will not run. In the while true loop the “if else” statement says: if the light level is equal to 180 then the CPX will elicit a color response of blue. It is very interesting to see how Python can turn the blocks of makecode into real written code.
 
 from dcs import *
