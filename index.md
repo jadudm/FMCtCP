@@ -1,3 +1,11 @@
+# Introductory Chapters
+
+# Intermediate Chapters
+
+# Advanced Chapters
+
+# Chapters that are Purple
+
 * [CONTRIBUTORS](CONTRIBUTORS.html)
 * [Hermione-Constrain](Hermione-Constrain.html)
 * [Hermione-Map](Hermione-Map.html)
